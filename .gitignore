@@ -1,0 +1,14 @@
+# Python environment & cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+
+# VS Code project settings & history
+.vscode/
+
+# macOS system files
+.DS_Store
